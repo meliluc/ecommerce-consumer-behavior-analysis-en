@@ -37,15 +37,20 @@ Key deliverables:
 
 ---
 
-### 📸 Dashboard Screenshots (EN)
+### Dashboard Screenshots (EN)
 
-| Cover Page | Customer Profile |
-|------------|------------------|
-| ![Cover](https://raw.githubusercontent.com/meliluc/ecommerce-consumer-behavior-analysis-en/main/dashboard/Dashboard_English_Screenshots/cover.jpg) | ![Profile](https://raw.githubusercontent.com/meliluc/ecommerce-consumer-behavior-analysis-en/main/dashboard/Dashboard_English_Screenshots/customer-profile.jpg) |
+**Cover Page**  
+![Cover](dashboard/Dashboard_English_Screenshots/01_Cover_Page.jpg)
 
-| Purchasing Behavior | Digital Interactions |
-|---------------------|----------------------|
-| ![Purchasing](https://raw.githubusercontent.com/meliluc/ecommerce-consumer-behavior-analysis-en/main/dashboard/Dashboard_English_Screenshots/purchasing-behavior.jpg) | ![Digital](https://raw.githubusercontent.com/meliluc/ecommerce-consumer-behavior-analysis-en/main/dashboard/Dashboard_English_Screenshots/digital-interactions.jpg) |
+**Customer Profile**  
+![Profile](dashboard/Dashboard_English_Screenshots/02_Customer_Profile.jpg)
+
+**Purchasing Behavior**  
+![Purchasing](dashboard/Dashboard_English_Screenshots/03_Purchasing_Behavior.jpg)
+
+**Digital Interactions**  
+![Digital](dashboard/Dashboard_English_Screenshots/04_Digital_Interactions.jpg)
+
 
 
 ---
