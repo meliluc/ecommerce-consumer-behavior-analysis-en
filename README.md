@@ -14,6 +14,8 @@ This project explores:
 
 It was built with a fully normalized dataset in Excel, custom KPIs using DAX, and a dashboard structured for business storytelling.
 
+📄 **[View Project Documentation in PDF](https://drive.google.com/file/d/1nFt6UaCT46-Q7-SEZ7iR6Hma6FBbNSRl/view?usp=drive_link)**
+
 ---
 
 ## 🛠️ Tools Used
@@ -52,6 +54,8 @@ Key steps taken in the normalization:
 * **Date handling**: A separate **calendar table** was created using Power Query to ensure proper handling of time-based analysis (by day, month, quarter, year, etc.), which is fundamental for dynamic filtering and historical KPIs.
 
 This normalization enhances data integrity, improves performance within Power BI, and enables more accurate visual exploration and filtering through relationships defined in the data model.
+
+🧿 **[View Normalized Dataset](https://docs.google.com/spreadsheets/d/1vLMK2MhfSIqIO2TF7NGt0KCjpOP-koZQ/edit?usp=drive_link&ouid=118301805959079266186&rtpof=true&sd=true)**
 
 ---
 
@@ -94,15 +98,20 @@ Several preprocessing and modeling tasks were carried out to ensure better visua
 Below you can find an overview of the dashboard visuals.  
 For a full preview, access the complete PDF version:
 
-📄 **[View Dashboard Preview (PDF)](https://drive.google.com/file/d/1XS3hGomkOAfIDBgiUbECpNmpuo5puQKS/view?usp=sharing)**  
-
+🧿 **[View Dashboard Preview (PDF)](https://drive.google.com/file/d/1XS3hGomkOAfIDBgiUbECpNmpuo5puQKS/view?usp=sharing)**  
+🧿 **[Dashboard Download (PBIX)](https://drive.google.com/file/d/1XS3hGomkOAfIDBgiUbECpNmpuo5puQKS/view?usp=drive_link)**  
 
 #### 👤 Customer Profile Page
 Focuses on understanding who the buyers are based on age, gender, location, and loyalty.
 
 ---
 
-## 📸 Dashboard Previews
+### 🎥 Demo in Action
+![Dashboard Usage](dashboard/Dashboard_English_Screenshots/dashboard_demo.gif)
+
+---
+
+## 📸 Previews
 
 ### 🧭 Cover Page
 ![Dashboard Cover](dashboard/Dashboard_English_Screenshots/01_Cover_Page.jpg)
@@ -129,18 +138,16 @@ Focuses on understanding who the buyers are based on age, gender, location, and 
 
 ---
 
-## 📎 Portfolio Link
-
-- [🔗 View PDF & Power BI on Google Drive](https://drive.google.com/file/d/1C_-P62q6jKNuokIZLGhFoteir2ee4XJS/view?usp=drive_link)
-
----
-
 ## 📌 Key Insights
 
 - Most purchases come from mid-loyalty customers (level 3)
 - Loyal customers are more consistent but spend slightly less overall
 - Social media and ad engagement strongly influence purchase volume in mid-loyalty segments
 - Most frequent buyers are aged 36–45 with balanced gender distribution
+
+> ⚠️ **Important Note:**  
+> The data used in this project is **fictional and simulated**, created solely for **practice and academic demonstration purposes**.  
+> For this reason, the analysis results **may lack consistency** and should not be interpreted as representative of a real business case.
 
 ---
 
